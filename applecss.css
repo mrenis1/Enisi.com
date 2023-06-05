@@ -1,0 +1,51 @@
+nav{
+	background-color: #161617cc;
+}
+a{
+	color: whitesmoke;
+	text-align: center;
+	font-size: 30px;
+	margin-inline: 15px;
+	text-decoration: none;
+}
+body{
+	text-align: center;
+	background-color: black;
+}
+img{
+	width: 1000px;
+}
+p{
+	color: white;
+}
+footer{
+	background-color: white;
+}
+button{
+	color: white;
+	background-color: #1b1b1c;
+	width: 100px;
+	height: 40px;
+	font-size: 20px;
+}
+#buynow-he{
+	color: white;
+	font-size: 30px;
+	text-align: left;
+	margin-left: 25%;
+}
+hr{
+	width: 50%;
+}
+.opo{
+	height: 75px;
+	width: 150px;
+}
+@media only screen (min-width: 600px){
+	#buynow-he{
+		font-size: 15px;
+	}
+	header{
+		height: 400px;
+	}
+}
